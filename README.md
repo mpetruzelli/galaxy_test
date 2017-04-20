@@ -23,4 +23,4 @@ vars/
 ```
 
 
-Actual result will be several files missing the string 'galaxy_test' from the file names.
+Actual result will be several files missing the string `galaxy_test` from the file names.
